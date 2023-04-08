@@ -9,5 +9,7 @@ namespace pr1
     class qqq
     {
         testc;
+            
+            llllll
     }
 }
