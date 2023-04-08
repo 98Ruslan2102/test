@@ -8,6 +8,8 @@ namespace pr1
 {
     class vvvvvvv
     {
-        interface
+        interface;
+
+        struct
     }
 }
