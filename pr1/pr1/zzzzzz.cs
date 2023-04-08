@@ -9,5 +9,7 @@ namespace pr1
     class zzzzzz
     {
         static bb
+
+            GetBb;
     }
 }
