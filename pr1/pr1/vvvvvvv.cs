@@ -8,5 +8,6 @@ namespace pr1
 {
     class vvvvvvv
     {
+        interface
     }
 }
